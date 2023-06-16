@@ -1,6 +1,6 @@
 import React from 'react';
 import { render } from '@testing-library/react';
-import Loading from '../loading/Loading';
+import Loading from '../loadings/Loading';
 import '@testing-library/jest-dom'
 
 

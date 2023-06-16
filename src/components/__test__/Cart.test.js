@@ -1,6 +1,6 @@
 import React from 'react';
 import { render, fireEvent } from '@testing-library/react';
-import Cart from '../Cart';
+import Cart from '../Documents/Cart';
 import '@testing-library/jest-dom'
 
 
